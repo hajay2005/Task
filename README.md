@@ -7,7 +7,7 @@ For Python Implementation
 ✅ Python 3.x (Download from [python.org](https://www.python.org/))  
 ✅ A terminal or command prompt  
 ✅ A text editor (VS Code, PyCharm, or any other)
-
+ 
 For JavaScript Implementation
 ✅ Node.js installed (Download from [nodejs.org](https://nodejs.org/))  
 ✅ A terminal or command prompt  
